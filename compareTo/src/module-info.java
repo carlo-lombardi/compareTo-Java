@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author carlo
- *
- */
-module compareTo {
-}
